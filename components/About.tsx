@@ -4,7 +4,7 @@ export const About = () => {
  return (
   <section
    id="about"
-   className="container mx-auto px-4 md:px-16 py-24 sm:py-32"
+   className="container mx-auto px-4 md:px-16 py-24 sm:py-32" 
   >
    <div className="bg-card border rounded-lg py-12">
     <div className="px-6 flex flex-col-reverse md:flex-row gap-8 md:gap-12">
